@@ -47,7 +47,7 @@ Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas]
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Diagrama de Classes vs Modelo de Dados** | Desenvolvi este material técnico para detalhar as distinções fundamentais entre a modelagem de software (UML) e a estruturação de bancos de dados (ER).. | [Ver Projeto]
-(https://drive.google.com/file/d/19dO1tEl4LkP9OZbjv8WhpKJi35TDDrkU/view?usp=sharing) 
+(https://drive.google.com/file/d/1yeMAG9SWHOCwdw2BP3nof7PL-r511E04/view?usp=sharing)
  
 ---
  
