@@ -41,7 +41,7 @@ Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas]
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Estacionamento ParkControl** | Projeto Frontend. | [Ver Projeto][(https://drive.google.com/drive/folders/1pItDzA2878AoQD2FebcP0FQgNoN7x8qD?usp=sharing)] |
+| **Estacionamento ParkControl** | Projeto Frontend. | [Ver Projeto](https://drive.google.com/drive/folders/1pItDzA2878AoQD2FebcP0FQgNoN7x8qD?usp=sharing) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
