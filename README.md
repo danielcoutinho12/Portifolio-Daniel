@@ -39,12 +39,12 @@ Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas]
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Estacionamento ParkControl** | Projeto Frontend. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Diagrama de Classes vs Modelo de Dados** | Desenvolvi este material técnico para detalhar as distinções fundamentais entre a modelagem de software (UML) e a estruturação de bancos de dados (ER).. | [Ver Projeto](.https://drive.google.com/file/d/19dO1tEl4LkP9OZbjv8WhpKJi35TDDrkU/view?usp=sharing) |
  
 ---
  
