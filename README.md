@@ -44,7 +44,7 @@ Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas]
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Diagrama de Classes vs Modelo de Dados** | Desenvolvi este material técnico para detalhar as distinções fundamentais entre a modelagem de software (UML) e a estruturação de bancos de dados (ER).. | [Ver Projeto](.https://drive.google.com/file/d/19dO1tEl4LkP9OZbjv8WhpKJi35TDDrkU/view?usp=sharing) |
+| **Diagrama de Classes vs Modelo de Dados** | Desenvolvi este material técnico para detalhar as distinções fundamentais entre a modelagem de software (UML) e a estruturação de bancos de dados (ER).. | [Ver Projeto]https://drive.google.com/file/d/19dO1tEl4LkP9OZbjv8WhpKJi35TDDrkU/view?usp=sharing |
  
 ---
  
