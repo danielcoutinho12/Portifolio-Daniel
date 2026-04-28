@@ -38,17 +38,15 @@ Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas]
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ FrontEnd
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Estacionamento ParkControl** | Projeto Frontend. | [Ver Projeto](https://drive.google.com/drive/folders/1pItDzA2878AoQD2FebcP0FQgNoN7x8qD?usp=sharing) |
  
-#### 🤖 Inteligência Artificial
+#### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Diagrama de Classes vs Modelo de Dados** | Desenvolvi este material técnico para detalhar as distinções fundamentais entre a modelagem de software (UML) e a estruturação de bancos de dados (ER). | [Ver Projeto]
-(https://drive.google.com/file/d/1yeMAG9SWHOCwdw2BP3nof7PL-r511E04/view?usp=sharing) |
- 
+| **Diagrama de Classes vs Modelo de Dados** | Desenvolvi este material técnico para detalhar as distinções fundamentais entre a modelagem de software (UML) e a estruturação de bancos de dados (ER). | [Ver Projeto](https://drive.google.com/file/d/1yeMAG9SWHOCwdw2BP3nof7PL-r511E04/view?usp=sharing) |
 ---
  
 ### 🏗 Estrutura do Repositório
