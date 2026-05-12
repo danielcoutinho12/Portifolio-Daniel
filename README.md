@@ -64,16 +64,16 @@ Este projeto explora a intersecção entre criatividade humana e Inteligência A
  
 ## 🚀 Assistente Personalizado
 O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
-> [Link para o meu Gemini Gems]([LINK_AQUI](https://gemini.google.com/gem/1ycZQWeMIuPLD9y93QGI83IFMV2GC2H4T?usp=sharing))
+> [Link para o meu Gemini Gems](https://gemini.google.com/gem/1ycZQWeMIuPLD9y93QGI83IFMV2GC2H4T?usp=sharing)
  
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Enredo Yasmim] | [Samba] | [Arquivo MP3](./audio/musica1.mp3) |
-| 02 | [Herança da Caçamba] | [Samba] | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [Cristal Quebrado] | [Pagode] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Bilhete Papel de Pão ] | [Pagode] | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Alvara de Luz] | [Samba] | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | [Enredo Yasmim] | [Samba] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Enredo Yasmim.mp3") |
+| 02 | [Herança da Caçamba] | [Samba] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Herança da Caçamba.mp3") |
+| 03 | [Cristal Quebrado] | [Pagode] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Cristal Quebrado.mp3") |
+| 04 | [Bilhete Papel de Pão ] | [Pagode] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Bilhete Papel Pão.mp3") |
+| 05 | [Alvara de Lucidez] | [Samba] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Alvará de Lucidez.mp3") |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
@@ -81,7 +81,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
 ---
-Desenvolvido por [[Daniel Coutinho]](https://github.com/[SEU_USUARIO])
+Desenvolvido por [[Daniel Coutinho]](https://github.com/[danielcoutinho12])
 ---
 
 
