@@ -69,11 +69,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Enredo Yasmim] | [Samba] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Enredo Yasmim.mp3") |
-| 02 | [Herança da Caçamba] | [Samba] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Herança da Caçamba.mp3") |
-| 03 | [Cristal Quebrado] | [Pagode] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Cristal Quebrado.mp3") |
-| 04 | [Bilhete Papel de Pão ] | [Pagode] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Bilhete Papel Pão.mp3") |
-| 05 | [Alvara de Lucidez] | [Samba] | [Arquivo MP3]("C:\Users\DANIELCOUTINHO\Downloads\musicas\Alvará de Lucidez.mp3") |
+| 01 | [Enredo Yasmim] | [Samba] | [Arquivo MP3](https://suno.com/s/cm7jAswEI7Fukbuk) |
+| 02 | [Herança da Caçamba] | [Samba] | [Arquivo MP3](https://suno.com/s/TFlpgHNH0xb6O9Ea) |
+| 03 | [Cristal Quebrado] | [Pagode] | [Arquivo MP3](https://suno.com/s/O7IvwoAja2yjKT1W) |
+| 04 | [Bilhete Papel de Pão ] | [Pagode] | [Arquivo MP3](https://suno.com/s/Lvwi6AMR3FO1IPCw) |
+| 05 | [Alvara de Lucidez] | [Samba] | [Arquivo MP3](https://suno.com/s/h7q4XV0AVyC9MjKw) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
